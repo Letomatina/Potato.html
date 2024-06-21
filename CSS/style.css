@@ -1,0 +1,84 @@
+body{
+      margin:0;
+      padding: 0;
+      border: 0%;
+      font-family:"Merriweather", serif;
+      padding-bottom: 50px;
+      text-align: center;     
+}
+
+
+.first-container{
+    background-color: rgb(153, 186, 106);
+    background-image: url("../images/tata.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/*hr {
+    border: dotted #eefcf4 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}*/
+
+h1{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-weight: bold;
+   
+ }
+
+.profile{
+    border-radius: 50%;
+}
+
+
+.education{
+   text-align: center;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   background-color: rgb(251, 255, 252);
+
+}
+
+.Work{
+
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(228, 233, 229);
+}
+
+.Skills{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(179, 184, 181);
+}
+
+.Achievements{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(203, 214, 206);
+}
+
+#footer{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(171, 199, 182);
+}
+
+#Hobbies{
+  background-color: rgb(132, 151, 141);
+  background-size: cover;
+}
+
+#Contacts{
+    background-color: rgb(132, 151, 141);
+}
